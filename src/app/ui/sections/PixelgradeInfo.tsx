@@ -3,7 +3,7 @@ import illustration from "@/assets/illustrations/illustration2.png";
 
 const PixelgradeInfo = () => {
 	return (
-		<div className="flex items-center justify-around gap-10">
+		<section className="flex items-center justify-around gap-10">
 			{/* Image */}
 			<div>
 				<Image
@@ -31,7 +31,7 @@ const PixelgradeInfo = () => {
 				
 				<button className="bg-primary text-white px-6 py-3 rounded-md">Learn More</button>
 			</div>
-		</div>
+		</section>
 	);
 };
 
