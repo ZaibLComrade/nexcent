@@ -12,6 +12,7 @@ const config: Config = {
 			},
 			colors: {
 				"primary": "#4CAF4F",
+				"primary-tint-5": "#E8F5E9",
 				"secondary": "#263238",
 				"secondary-2": "#717171",
 				"neutral": "#F5F7FA",
